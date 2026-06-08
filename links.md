@@ -5,3 +5,6 @@
 
 ## 第二平台（Instagram）
 - 截圖：惡作劇.jpg
+
+## GitHub Pages
+- URL：https://a113010041.github.io/drama-pipeline/
